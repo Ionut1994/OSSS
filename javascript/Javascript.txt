@@ -1,0 +1,38 @@
+var function_name = function (parameter_1,... parameter_n)
+{
+	...
+};
+var variable = ...;
+
+for (var i=0; i<10; i++)
+{
+	...
+}
+
+var text = "Hey, how are you \
+doing? My name is Emily.";
+
+var variable = prompt("Question?");
+switch (/*Some expression*/) {
+    case 'option1':
+        // Do something
+        break;
+    case 'option2':
+        // Do something else
+        break;
+    case 'option3':
+        // Do a third thing
+        break;
+    default:
+       // Do yet another thing
+}
+
+DOM - html
+html - head, body
+body - h1, p(paragraph), ul(unordered list)
+ul - li (list item)
+
+var buton = document.getElementById("butonulMeu");
+document.createElement
+document.createTextNode
+.appendChild
